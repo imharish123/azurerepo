@@ -1,7 +1,4 @@
-hi my name is harishi
-hello how are you
-okay how are you 
-I am good 
-I love my city
-I am dev
-I love my country
+Hi how are you
+I live in city2
+I love my country2
+How about you
